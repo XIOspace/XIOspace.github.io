@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-1-js-18943616073b85e522a3.js","mappings":"gLAEe,SAASA,IACtB,OAAO","sources":["webpack://my-github-page/./src/pages/index1.js"],"sourcesContent":["import React from 'react';\n\nexport default function home() {\n  return <div></div>;\n}\n"],"names":["home"],"sourceRoot":""}
